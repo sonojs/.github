@@ -1,5 +1,4 @@
 
-```markdown
 # SonoJS
 
 Agent-friendly React + Tailwind UI system.
