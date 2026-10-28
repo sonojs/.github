@@ -1,39 +1,41 @@
+ <div align="center">
+  <img src="https://sonojs.com/images/logos/logo.svg" alt="SonoJS" width="96" />
+  <h1>SonoJS</h1>
+  <p><strong>Beautiful UI. Your code. Your rules.</strong></p>
+  <p>Agent-friendly React + Tailwind ecosystem. Components, blocks, charts, and icons. Install what you need. Own every line.</p>
+  <p>
+    <a href="https://sonojs.com">Website</a> ·
+    <a href="https://sonojs.com/docs/components">Components</a> ·
+    <a href="https://sonojs.com/blocks">Blocks</a> ·
+    <a href="https://icons.sonojs.com">Icons</a>
+  </p>
+</div>
 
-# SonoJS
+---
 
-Agent-friendly React + Tailwind UI system.
+### The ecosystem
 
-Copy-source components, ready-made blocks, charts, and icons — install what you need, own the files in your app.
+- **Components** — accessible, customizable UI.
+- **Blocks** — ready-made patterns for real products.
+- **Charts** — installable data visualizations.
+- **RTL + LTR** — built for every writing direction.
+- **CLI + MCP** — designed for developers and AI agents.
 
-**Site:** [sonojs.com](https://sonojs.com)  
-**Library:** [MiladJoodi/SonoJS](https://github.com/MiladJoodi/SonoJS)  
-**Icons:** [icons.sonojs.com](https://icons.sonojs.com)
-
-## What we build
-
-- **Components** — accessible UI primitives (CLI: `npx @sonojs/ui@latest add …`)
-- **Blocks** — auth, navigation, marketing, dashboards, and more
-- **Charts** — installable chart demos
-- **Direction** — first-class LTR / RTL
-- **MCP + CLI** — agent-friendly install and discovery
-
-## Quick start
+### Get started
 
 ```bash
 npx @sonojs/ui@latest init
 npx @sonojs/ui@latest add button
 ```
 
-## Links
+### Explore
 
-| | |
+| Resource | Link |
 |---|---|
-| Docs | https://sonojs.com/docs |
-| Components | https://sonojs.com/docs/components |
-| Blocks | https://sonojs.com/blocks |
-| Charts | https://sonojs.com/charts |
+| Documentation | [sonojs.com/docs](https://sonojs.com/docs) |
+| Components | [Browse components](https://sonojs.com/docs/components) |
+| Blocks | [Explore blocks](https://sonojs.com/blocks) |
+| Charts | [Explore charts](https://sonojs.com/charts) |
+| Source | [GitHub](https://github.com/MiladJoodi/SonoJS) |
 
-MIT · Under active development
-```
-
-اگر اسم org چیز دیگری است، فقط عنوان و لینک‌ها را با org خودت عوض کن. برای ساختن فایل داخل ریپو، به Agent mode برو.
+**MIT License** · Built in the open.
