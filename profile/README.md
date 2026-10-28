@@ -1,12 +1,41 @@
-## Hi there 👋
+برای **صفحهٔ org در GitHub** این را کپی کن (مختصر و دقیق):
 
-<!--
+```markdown
+# SonoJS
 
-**Here are some ideas to get you started:**
+Agent-friendly React + Tailwind UI system.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Copy-source components, ready-made blocks, charts, and icons — install what you need, own the files in your app.
+
+**Site:** [sonojs.com](https://sonojs.com)  
+**Library:** [MiladJoodi/SonoJS](https://github.com/MiladJoodi/SonoJS)  
+**Icons:** [icons.sonojs.com](https://icons.sonojs.com)
+
+## What we build
+
+- **Components** — accessible UI primitives (CLI: `npx @sonojs/ui@latest add …`)
+- **Blocks** — auth, navigation, marketing, dashboards, and more
+- **Charts** — installable chart demos
+- **Direction** — first-class LTR / RTL
+- **MCP + CLI** — agent-friendly install and discovery
+
+## Quick start
+
+```bash
+npx @sonojs/ui@latest init
+npx @sonojs/ui@latest add button
+```
+
+## Links
+
+| | |
+|---|---|
+| Docs | https://sonojs.com/docs |
+| Components | https://sonojs.com/docs/components |
+| Blocks | https://sonojs.com/blocks |
+| Charts | https://sonojs.com/charts |
+
+MIT · Under active development
+```
+
+اگر اسم org چیز دیگری است، فقط عنوان و لینک‌ها را با org خودت عوض کن. برای ساختن فایل داخل ریپو، به Agent mode برو.
